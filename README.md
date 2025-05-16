@@ -4,14 +4,14 @@ This repository contains two reinforcement learning projects where I trained age
 
 ---
 
-## 🎮 Projects
+## Projects
 
 ### 1. Pong (A2C)
 - Algorithm: Advantage Actor-Critic (A2C)
 - Environment: PongNoFrameskip-v4
 - Status: Agent reaches stable gameplay after ~1M timesteps
 
-📂 [See Project Folder](./pong_a2c)
+ [See Project Folder](./pong_a2c)
 
 ---
 
@@ -20,11 +20,11 @@ This repository contains two reinforcement learning projects where I trained age
 - Environment: MsPacmanNoFrameskip-v4
 - Status: Agent achieves strong reward after training over ~1M timesteps
 
-📂 [See Project Folder](./mspacman_ppo)
+ [See Project Folder](./mspacman_ppo)
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 - Python
 - Stable-Baselines3
 - OpenAI Gym + Atari environments
@@ -34,7 +34,7 @@ This repository contains two reinforcement learning projects where I trained age
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/reinforcement-learning-atari-agents.git
