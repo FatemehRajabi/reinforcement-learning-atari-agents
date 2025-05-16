@@ -1,0 +1,10 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore zipped models
+*.zip
+
+# Ignore IDE and virtual env folders if ever added by mistake
+.idea/
+.venv/
