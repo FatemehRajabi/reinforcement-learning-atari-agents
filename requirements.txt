@@ -1,0 +1,6 @@
+stable-baselines3==1.8.0
+gym==0.26.2
+gym[atari]
+torch>=1.11.0
+opencv-python
+matplotlib
